@@ -1,0 +1,19 @@
+ul {
+}
+
+#ingredients {
+    grid-template-columns: 200px 200px 200px;
+    
+}
+.ingtypes {
+    list-style-type: none;
+}
+li {
+    
+}
+h3 {
+    font-style: italic;
+}
+h1 {
+    text-align: center;
+}
